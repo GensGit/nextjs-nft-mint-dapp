@@ -1,7 +1,7 @@
 const projectConfig = {
-  nftName: 'SkullsInLove',
+  nftName: 'Test',
 
-  nftSymbol: 'SIL',
+  nftSymbol: 'TEST',
 
   maxSupply: 10000,
 
